@@ -4,12 +4,13 @@ Title: Sydney's Package
 Version: 0.1.0
 Author: Sydney Rilum
 Maintainer: Sydney Rilum <sydneyrilum@ucsb.edu>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: 
+    Package created for ESM 262 course.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
-Import:
-    purrr
-    tidyverse
 RoxygenNote: 7.1.2
+Imports: 
+    purrr
+Depends: 
+    R (>= 2.10)

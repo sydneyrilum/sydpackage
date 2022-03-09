@@ -1,7 +1,6 @@
 #' Fish Catch Function
 #'
 #' This function takes a vector of fish names and returns the most common fish, rarest fish, and total number of fish caught.
-#'
 #' @param fish, a vector of fish species (names)
 #' @return list with the following items
 #' \describe{
